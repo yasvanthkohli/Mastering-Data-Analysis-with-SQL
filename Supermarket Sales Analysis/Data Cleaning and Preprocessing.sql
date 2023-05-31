@@ -78,7 +78,6 @@ SET product_line = 'Sports accessories'
 WHERE product_line LIKE 'Sports and travel';
 
 
-
 -- Standardizing date formats --
 
 /*Converting single-digit date and month values to a consistent format with leading zeros */
@@ -193,9 +192,7 @@ SELECT customer_type, SUM(tax) AS total_tax
 FROM Sales
 GROUP BY customer_type;
 
-
 -- Aggregated Subquery --
-
 /* Find the total sales for customers who have made purchases above the average total */
 SELECT customer_type, SUM(total) AS total_sales
 FROM Sales
