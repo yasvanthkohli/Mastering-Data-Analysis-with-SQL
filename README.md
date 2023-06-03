@@ -23,6 +23,6 @@ Database Setup: Create a database to store the World Happiness Report data.
 
 Data Import: Import the dataset into appropriate tables within the database.
 
-Basic SQL Queries: Write SQL queries to perform the following tasks:
+Basic SQL Queries: Write SQL queries to gain insights into the factors influencing happiness levels across countries.
 
-
+Data Exploration: Perform exploratory analysis by writing SQL queries to answer specific questions and gain insights from the dataset.
