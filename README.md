@@ -1,4 +1,4 @@
-Compilation of SQL and Data Analysis Related Projects and Challenges for Learning, Practice, and Gaining Valuable Insights from Past Data.
+The compilation of projects and challenges encompasses a diverse collection centered around SQL and data analysis. Curated to foster learning, provide practical experience, and unearth valuable insights from past data.
 
 Built with
 
