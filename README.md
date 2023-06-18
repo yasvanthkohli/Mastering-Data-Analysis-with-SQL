@@ -35,9 +35,9 @@ Data Exploration: Perform exploratory analysis by writing SQL queries to answer 
    This project aims to perform an analysis of supermarket sales data using SQL. The dataset contains information about various sales transactions, including invoice details, branch information, customer demographics, product details, pricing, taxes, payment information, and customer ratings. The project will focus on data cleaning and preprocessing, as well as data filtering and aggregation techniques to derive meaningful insights from the dataset.
 
 
-2. Dataset Overview:
+2. Dataset Overview
   
-   The dataset consists of the following columns:
+   The dataset consists of the following columns
 - Invoice_ID: Unique identifier for each sales transaction.
 - Branch: Branch code where the sale occurred.
 - City: City where the sale occurred.
@@ -60,11 +60,11 @@ Data Exploration: Perform exploratory analysis by writing SQL queries to answer 
 
 
   
-3. Data Cleaning and Preprocessing:
+3. Data Cleaning and Preprocessing
 
  
    Data cleaning and preprocessing are essential steps to ensure the quality and consistency of the dataset. In this project, the following data 
-   cleaning and preprocessing techniques were applied:
+   cleaning and preprocessing techniques were applied.
 - Handling missing values: Missing values in any of the columns were identified and appropriate actions, such as imputation or removal, were taken.
 - Removing duplicates: Duplicate records, if any, were identified and removed to avoid redundant data.
 - Data type conversion: The data types of certain columns were adjusted to match the nature of the data they represent, such as converting date and time columns into the appropriate data types.
@@ -75,11 +75,11 @@ Data Exploration: Perform exploratory analysis by writing SQL queries to answer 
 
 
 
-4. Data Filtering and Aggregation:
+4. Data Filtering and Aggregation
 
    
    Data filtering and aggregation techniques are used to extract specific subsets of data and derive meaningful insights from them. In this project, the 
-   following techniques were applied:
+   following techniques were applied.
 - Filtering by date: The dataset was filtered based on a specific date range or specific days of the week to focus on sales patterns during certain periods.
 - Filtering by branch or city: The dataset was filtered to analyze sales performance at specific branches or cities.
 -	Aggregating sales data: Various aggregation functions, such as SUM, COUNT, AVERAGE, and MAX, were applied to calculate key metrics like total sales, average unit price, total tax, and gross income.
