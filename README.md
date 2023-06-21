@@ -80,8 +80,8 @@ Data Exploration: Perform exploratory analysis by writing SQL queries to answer 
    
    Data filtering and aggregation techniques are used to extract specific subsets of data and derive meaningful insights from them. In this project, the 
    following techniques were applied.
-- Filtering by date: The dataset was filtered based on a specific date range or specific days of the week to focus on sales patterns during certain periods.
+- Filtering by date: The dataset was filtered based on a specific date range to focus on sales patterns during certain periods.
 - Filtering by branch or city: The dataset was filtered to analyze sales performance at specific branches or cities.
 -	Aggregating sales data: Various aggregation functions, such as SUM, COUNT, AVERAGE, and MAX, were applied to calculate key metrics like total sales, average unit price, total tax, and gross income.
--	Grouping and sorting: The dataset was grouped by specific columns (e.g., product line, customer type) and sorted based on certain criteria (e.g., sales volume, gross income) to identify trends and patterns.
+-	Grouping and sorting: The dataset was grouped by specific columns (e.g., product line, customer type) and sorted based on certain criteria to identify trends and patterns.
 
