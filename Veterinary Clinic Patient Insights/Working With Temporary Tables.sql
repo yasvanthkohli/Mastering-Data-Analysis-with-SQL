@@ -70,7 +70,7 @@ SELECT * FROM temp_results;
 --  Delete records from the temporary table based on a condition
 DELETE FROM temp_results WHERE total_price = 0;
 
--- 5. Update the procedure_count column based on a condition
+--  Update the procedure_count column based on a condition
 UPDATE temp_results SET procedure_count = 2 WHERE total_price > 1000;
 
 -- Retrieve the updated data from the temporary table
