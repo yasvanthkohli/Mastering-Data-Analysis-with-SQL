@@ -9,6 +9,20 @@ SQL Databases:
 Tools:
 - MySQL Workbench
 - pgAdmin
+  
+Table of Contents
+- Connecting to the Database
+- Retrieving Data
+- Filtering Data
+- Sorting Data
+- Aggregating Data
+- Joining Tables
+- Grouping and Summarizing Data
+- Subqueries
+- Working with Dates and Times
+- Analytical Functions
+- Advanced Analysis Techniques
+- Exporting Data
 
 ## World Happiness Report Data Exploration
 Project Description:
